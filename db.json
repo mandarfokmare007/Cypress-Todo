@@ -1,1 +1,28 @@
-{}
+{
+  "todos": [
+    {
+      "name": "Study React",
+      "id": 1,
+      "isComplete": false,
+      "isCompleted": false
+    },
+    {
+      "name": "Walk 5KM",
+      "id": 2,
+      "isComplete": false,
+      "isCompleted": false
+    },
+    {
+      "name": "Drink 5 litre water",
+      "id": 3,
+      "isComplete": false,
+      "isCompleted": false
+    },
+    {
+      "name": "Grocery",
+      "id": 4,
+      "isComplete": false,
+      "isCompleted": false
+    }
+  ]
+}
